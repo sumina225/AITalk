@@ -4,7 +4,9 @@
 <img src="./assets/main.png"/>
 
 
-## :speaking_head: 프로젝트 소개 
+## :speaking_head: 프로젝트 소개
+
+# 🥇 SSAFY 12기 공통프로젝트 우수상 🥇
 
 > ⌛ 프로젝트 기간 : 2025년 1월 13일 ~ 2월 21일
 

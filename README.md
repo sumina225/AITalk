@@ -1,7 +1,7 @@
 # 아이톡(AITALK) 
 생성형 AI기술 기반의 언어치료교구
 
-<img src="./assets/main.png"/>
+<img src="./assets/진짜홈.png"/>
 
 
 ## :speaking_head: 프로젝트 소개
